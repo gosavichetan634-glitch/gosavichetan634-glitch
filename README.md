@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ TECH STACK (NEON INTERFACE)
+### 🛠️ TECH STACK 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql,bootstrap,threejs,vscode,git&perline=6" />
