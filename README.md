@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ TECH STACK 
+### 🛠️ TECH STACK (NEON INTERFACE)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql,bootstrap,threejs,vscode,git&perline=6" />
@@ -34,32 +34,24 @@
 
 ---
 
-### 📊 NEON ANALYTICS
+### 📊 SYSTEM ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gosavichetan634-glitch&show_icons=true&theme=cyberpunk&rank_icon=github&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosavichetan634-glitch&layout=compact&theme=cyberpunk&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gosavichetan634-glitch&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosavichetan634-glitch&layout=compact&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gosavichetan634-glitch&theme=cyberpunk&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gosavichetan634-glitch&theme=radical&hide_border=false" width="100%" />
 </p>
 
+---
 ---
 
 ### 📡 ENCRYPTED CHANNELS
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetan-gosavi-0925a4356/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/chetan.gosavi_21">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:gosavichetan01@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/chetan-gosavi-0925a4356/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/chetan.gosavi_21" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> &nbsp;&nbsp; <a href="mailto:gosavichetan01@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00f2ff&height=30&section=footer" width="100%"/>
