@@ -1,10 +1,10 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=I'm+Chetan+Gosavi;AI+%26+AI+&+DS+Student;Full-Stack+Web+Developer;Royal+Enfield+Rider+🏍️" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=I'm+Chetan+Gosavi;AI+%26+DS+Student;Full-Stack+Web+Developer;Royal+Enfield+Rider+🏍️" alt="Typing SVG" /> </p>
 
 ---
 
 ### 🌐 THE SYSTEM CORE
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/green-light.gif" width="100%" height="250px" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/green-light.gif" width="100%" height="220px" />
 </p>
 
 - 🎓 **Identity:** B.Tech Student in **Artificial Intelligence & Data Science**
@@ -15,13 +15,6 @@
 ---
 
 ### 🛠️ TECH STACK (NEON INTERFACE)
-
-| **Layer** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | `HTML5` `CSS3` `JavaScript` `Bootstrap` `Three.js` |
-| **Backend** | `PHP` `Python` `C++` |
-| **Database** | `SQL` `MySQL` |
-| **Tools** | `VS Code` `Git` `Jupyter Notebook` |
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql,bootstrap,threejs,vscode,git&perline=6" />
