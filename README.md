@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=I'm+Chetan+Gosavi;AI+%26+Data+Science+Student;Full-Stack+Web+Developer;Royal+Enfield+Rider+🏍️" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=I'm+Chetan+Gosavi;AI+%26+AI+&+DS+Student;Full-Stack+Web+Developer;Royal+Enfield+Rider+🏍️" alt="Typing SVG" /> </p>
 
 ---
 
